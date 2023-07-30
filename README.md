@@ -2,9 +2,4 @@
 
 #### Thanks for visiting :heart:
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/rongchenlin/count.svg">  
-
-counting of visitors to this page in this section started from July 30, 2023
-
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rongchenlin&theme=github-compact)](https://github.com/rongchenlin/github-readme-activity-graph)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
