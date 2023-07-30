@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @rongchenlin
-- 👀 I’m interested in Java and Artificial Intelligence.
-- 🌱 I’m currently learning some knowledge about Java，including some framework like Spring，Mybatis, SpringBoot, concurrent programming and other small develop tools.
-- 📫 You can touch me by my blog，the link is https://blog.csdn.net/weixin_43742062 .
-
-
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rongchen+Lin;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
