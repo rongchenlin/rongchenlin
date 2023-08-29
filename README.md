@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rongchenlin" alt="rongchenlin" /></a> </p>
 
-#### 📝 个人博客： [https://blog.csdn.net/weixin_43742062](https://blog.csdn.net/weixin_43742062)
+#### 📝 博客/Blog： [https://blog.csdn.net/weixin_43742062](https://blog.csdn.net/weixin_43742062)
 
 ### Languages and Tools:
 
